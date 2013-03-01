@@ -1,4 +1,6 @@
 SPMS
 ====
 
-The Version 3.X release of SPMS is a legacy project, originally developed between 2000 and 2005 it provides game masters with a method of managing their sims website.
+This is the development branch for SPMS Version 4.0.
+
+Any code here is used at your own risk - github issues may be added at http://github.com/FutilitySoft/SPMS if you require assistance.
